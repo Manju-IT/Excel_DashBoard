@@ -1,6 +1,5 @@
-****
 **Salary Dashboard - Data Analysis and Visualization Project Using Excel **
-****
+
 Analyzing global salary trends, job roles, and skills in data-related fields
 
 ![image](https://github.com/user-attachments/assets/b16f82c5-5477-44b5-b3ae-1c32e3736f4b)
