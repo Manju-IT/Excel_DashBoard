@@ -71,5 +71,5 @@ Add new datasets or enhance visualizations.
 Submit a pull request with a clear description of changes.
 
 Let’s Connect!
-🔗www.linkedin.com/in/manjunath-ka | 📧 kalurimanjunath@gmail.com
+@ www.linkedin.com/in/manjunath-ka |  @kalurimanjunath@gmail.com
 
