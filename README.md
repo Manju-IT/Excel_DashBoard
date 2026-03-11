@@ -6,7 +6,7 @@ Analyzing global salary trends, job roles, and skills in data-related fields
 ![image](https://github.com/user-attachments/assets/b16f82c5-5477-44b5-b3ae-1c32e3736f4b)
 
 
-📌 Overview
+## Overview
 This project analyzes salary data for roles like Data Scientists, Data Engineers, Machine Learning Engineers, and Business Analysts across multiple countries. The dataset includes job titles, locations, salary figures, required skills, and company details. The goal is to visualize trends, compare compensation metrics, and uncover insights for professionals and employers in the tech industry.
 
 Key Features
@@ -20,7 +20,7 @@ Remote Work Insights: Analyze salary rates for remote vs. on-site roles.
 
 Interactive Visualizations: Filter data by job type, company, or compensation structure (hourly/yearly).
 
-📊 Dataset Overview
+## Dataset Overview
 The dataset includes:
 
 Job Details: Titles, locations, schedules, and remote-work status.
@@ -37,7 +37,7 @@ job_title_short, job_location, salary_year_avg, salary_hour_avg
 
 job_skills, company_name, job_country, job_health_insurance
 
-🛠️ Tools & Technologies
+## Tools & Technologies
 
 Analysis & Visualization: Excel
 
