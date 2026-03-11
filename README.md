@@ -1,4 +1,4 @@
-**Salary Dashboard - Data Analysis and Visualization Project Using Excel **
+## Salary Dashboard - Data Analysis and Visualization Project Using Excel
 
 Analyzing global salary trends, job roles, and skills in data-related fields
 
