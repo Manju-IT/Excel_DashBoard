@@ -43,7 +43,7 @@ Analysis & Visualization: Excel
 
 Version Control: Git & GitHub
 
-🚀 Getting Started
+## Getting Started
 Clone the Repository
 
 bash
@@ -56,15 +56,14 @@ bash
 Copy
 pip install -r requirements.txt  
 Run Analysis
-
-📈 Key Insights
+## Key Insights
 Top-Paying Roles: Senior Data Engineers in the US earn up to $260k/year.
 
 Remote Work Premium: Remote roles often offer competitive hourly rates (e.g., $85/hour).
 
 Skill Correlation: Jobs requiring AWS + PyTorch pay 18% more than average.
 
-🤝 How to Contribute
+## How to Contribute
 Fork the repository.
 
 Add new datasets or enhance visualizations.
